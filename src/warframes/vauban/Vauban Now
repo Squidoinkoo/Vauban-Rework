@@ -29,3 +29,6 @@ Abilities:
   - Bastille: Creates an energy-based containment field in which captives are held suspended in stasis.
   
   - Vortex: Creates a whirling mass of energy that violently attracts nearby enemies, crushing their atoms into a tiny spec of matter.
+
+Passive:
+ Vauban deals 25% extra damage to enemies that are incapacitated and unable to move, such as those affected by Bastille or Vortex.
