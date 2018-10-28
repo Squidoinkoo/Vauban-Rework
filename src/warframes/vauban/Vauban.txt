@@ -1,0 +1,31 @@
+The Trapmaster Vauban
+
+Abilities:
+
+ - Tesla: Launches a grenade that holds an electrical charge, zapping enemies that come within range.
+ 
+  - Minelayer: Cycle through four deployable trap mines: Bounce, Trip Laser, Shred and Concuss.
+  
+    - Bounce:
+       Upon contact with a surface or entity, the Bounce grenade deploys into a launch pad that adheres to any surface for five minutes. On contact with an 
+       enemy, the pad will deal 15 Blast damage. Allies and enemies that step onto the pad will be launched, and affected enemies will be knocked down 
+       and dealt 75 / 100 / 125 / 175 Impact damage with a 100% Magnetic status chance. A single launch pad has a maximum of 1 / 2 / 3 / 4 uses and a cooldown 
+       period of 3 seconds between each use.
+    
+    - Tripwire:
+       Upon contact with a surface or entity, the Trip Laser grenade falls to the ground then deploys into a 10 meters long laser trip wire that lasts for 
+       20 / 25 / 30 seconds. Enemies moving through the trip wire are either stunned if at walking pace, or knocked down if at running speed.
+    
+    - Shred:
+       Upon contact with a surface or entity, the Shred grenade falls to the ground then deploys into an armed explosive landmine that lasts for five minutes. 
+       When an enemy is in close proximity, the landmine explodes, dealing 200 / 400 Blast damage to all enemies in a 4 / 6 meter radius. Affected 
+       enemies are blown away in a ragdoll state and have their armor reduced by 30% / 40% for 4 seconds.
+    
+    - Concuss
+       Upon contact with a surface or entity, the Concuss grenade falls to the ground then deploys into an armed concussive landmine that lasts for five 
+       minutes. When an enemy is in close proximity, the landmine detonates, stunning all enemies in a 6 meter radius. Affected enemies become deafened to all 
+       gunfire noise for 8 seconds and suffer a Radiation proc.
+    
+  - Bastille: Creates an energy-based containment field in which captives are held suspended in stasis.
+  
+  - Vortex: Creates a whirling mass of energy that violently attracts nearby enemies, crushing their atoms into a tiny spec of matter.
