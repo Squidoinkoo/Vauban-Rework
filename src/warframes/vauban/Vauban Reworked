@@ -1,13 +1,12 @@
-The Trapmaster Vauban
+Vauban
 
 Abilities:
 
   - Tesla (Currently Balls o' Charging) -> Hologram
      - Deploys holo-projections of Tenno, creating aggro-pull. All enemy damage inflicted on the holo-projections will grant overshields. (I haven't decided 
-       whether those shields should go to you solely or to your squad)
+       whether those shields should go to your squad as well)
 
   - Minelayer
-  
     - Bounce -> Tesla
       - Pulses an electric wave
       - OR
@@ -24,8 +23,14 @@ Abilities:
       - Magnetizes the ground, making it more difficult for enemies to lift their feet and, therefore, slowing them down
 
   - Bastille
-    - Nothing really needs to be changed, I only wish that it's base enemy cap was higher, if not removed completely
-    - It would be useful if projectiles like Bombard rockets and Nox...things were also suspended
+    - It would be useful if bullets and projectiles (bombard rockets, nox...things, etc.) were suspended as well
+       - Their momentum will be preserved as well, making it so when the duration runs out, they will continue on their course (which means watch out)
+          - There will be a counter in the top right telling how many bullets are suspended, just so you know whether or not you need to watch out for
+            1000 bullets flying at you at once
+    - The base enemy cap was higher, if not removed completely
 
   - Vortex
     - Leave it be
+
+Passive
+ It kinda works with his kit, the only thing I can think of that would relate to his Corpus theme would be something like an innate Shield Disruption
